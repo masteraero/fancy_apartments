@@ -1,0 +1,15 @@
+simple site
+brochure type layout
+no pictures at this time, place holder images
+outside, inside, animeties
+pricing, main draw to site
+describe apartments and animeties
+play up apartments, not neighborhood
+Implement 
+
+
+Bottom-line: 1BR/.5BA  $500 month
+Basic: 2BR/1BA and living room $750 month
+Middle class: 1BR/1BA  $950 month
+Luxury: 2BR/1BA view of pool $1350 month
+
