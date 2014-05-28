@@ -1,4 +1,10 @@
 FancyApartments::Application.routes.draw do
+  get "contact", to: "contact#index", as: "contact"
+  get "info", to: "info#index", as: "info"
+  get "apartments", to: "apartments#index", as: "apartments"
+  get "apartments/pricing", to: "apartments#pricing", as: "pricing"
+  get "apartments/apartment_layout", to: "apartments#apartment_layout", as: "layout"
+  root "info#index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
